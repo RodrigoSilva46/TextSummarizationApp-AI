@@ -1,5 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 # README - Sumarização de Texto com LangChain e Claude-3
 
 Este projeto demonstra como utilizar a biblioteca **LangChain** em conjunto com o modelo de linguagem **Claude-3** da Anthropic para realizar a sumarização de textos. O código é dividido em blocos que explicam cada etapa do processo, desde a importação das bibliotecas até a execução da sumarização.
